@@ -1,0 +1,39 @@
+# Python derleyici çıktıları
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Sanal ortamlar
+env/
+venv/
+ENV/
+env.bak/
+*.env
+*.venv
+
+# IDE/editor ayar dosyaları
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Log ve geçici dosyalar
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+
+# Çıktı ve içerik klasörleri
+outputs/
+pdfs/
+
+# Jupyter notebook checkpointleri (eğer varsa)
+.ipynb_checkpoints/
